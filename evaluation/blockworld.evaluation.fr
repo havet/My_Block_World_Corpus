@@ -1,0 +1,38 @@
+prenez une flèche .
+prenez un bloc .
+prenez un cône .
+prenez un cône bleu .
+prenez un cône rouge .
+prenez une flèche bleue .
+prenez une flèche rouge .
+cherchez un bloc .
+prenez le bloc .
+ne prenez pas le bloc .
+prenez la flêche .
+mettez un cône sur mon bloc .
+mettez un cône sur son bloc .
+mettez un cône sur son bloc .
+mettez un cône sur le bloc .
+elle prend le bloc .
+elle prend la pyramide .
+mettez une flèche bleue sur un cercle bleu .
+mettez une flèche rouge sur un cercle bleu .
+mettez une flèche lilas sur un cercle bleu .
+je prends un bloc bleu .
+je prends un bloc rouge .
+mettez le bloc sur le cercle .
+mettez le cône sur le cercle .
+mettez la flèche sur le cercle .
+il met le bloc rouge sur le cercle bleu .
+il met le bloc rouge sur le cercle rouge .
+il met le bloc bleu sur le cercle rouge .
+il met une flèche sur mon cercle .
+il met une flèche sur son cercle .
+il met une flèche sur son cercle .
+il met une flèche sur son cercle .
+elle met son bloc sur mon cercle bleu .
+elle met son bloc sur mon cercle rouge .
+je mets le cône sur le cercle sur son cercle bleu .
+je mets le cône sur le cercle sur son cercle rouge .
+il prend sa flèche bleue .
+il prend sa flèche rouge .

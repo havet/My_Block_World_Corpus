@@ -1,0 +1,294 @@
+
+\data\
+ngram 1= 23
+ngram 2= 82
+ngram 3= 177
+
+\1-grams:
+-3.34351	<s>	-2.0048
+-1.4015	pone	-1.86034
+-1.83836	una	-2.19728
+-1.55818	flecha	-1.87866
+-0.905756	en	-2.53387
+-1.16309	un	-2.40083
+-0.905756	círculo	-2.53387
+-0.930207	el	-2.63431
+-1.16597	rojo	-2.57403
+-0.908938	</s>
+-1.511	poned	-1.8293
+-1.30608	bloque	-2.13234
+-1.26072	azul	-2.47893
+-1.60711	su	-1.8293
+-2.06475	pongo	-1.18799
+-1.87369	mi	-1.55931
+-1.65777	toma	-1.53511
+-2.02129	la	-2.01072
+-1.33067	cono	-2.10763
+-2.53059	roja	-1.17609
+-1.74691	tomad	-1.59107
+-2.26433	tomo	-1.0607
+-2.28281	<unk>
+
+\2-grams:
+-0.497107	<s> pone	-1.82495
+-0.607611	<s> poned	-1.69324
+-1.17316	<s> pongo	-1.06717
+-0.756196	<s> toma	-1.42551
+-0.84679	<s> tomad	-1.55567
+-1.38252	<s> tomo	-0.924636
+-0.783655	pone una	-1.82495
+-0.42921	pone un	-1.87443
+-0.795228	pone el	-1.50868
+-0.753987	pone su	-1.37679
+-1.4189	pone mi	-0.573739
+-1.10628	pone la	-1.50868
+-0.00268925	una flecha	-1.55983
+-0.238937	flecha en	-1.60559
+-0.786179	flecha </s>
+-0.811227	flecha azul	-1.12222
+-1.01815	flecha roja	-1.1407
+-0.545671	en un	-2.55567
+-0.26408	en el	-2.83676
+-0.969797	en su	-2.1334
+-1.21137	en mi	-1.89403
+-0.287581	un círculo	-1.95361
+-0.624734	un bloque	-1.61782
+-0.612798	un cono	-1.62972
+-0.830582	círculo en	-1.66897
+-0.44196	círculo rojo	-2.35818
+-0.488062	círculo </s>
+-0.785254	círculo azul	-2.01576
+-0.239641	el círculo	-2.2347
+-0.677424	el bloque	-1.79791
+-0.673458	el cono	-1.80188
+-0.388279	rojo en	-1.85039
+-0.229888	rojo </s>
+-0.965119	poned una	-1.53864
+-1.06076	poned un	-1.1407
+-0.135424	poned el	-2.05715
+-2.31781	poned su
+-1.24843	poned la	-1.26564
+-0.468411	bloque en	-1.62972
+-0.631373	bloque rojo	-1.76909
+-1.03985	bloque </s>
+-0.481015	bloque azul	-1.91885
+-0.293175	azul en	-1.85039
+-0.311246	azul </s>
+-0.898474	su flecha	-1.03156
+-0.264055	su círculo	-1.53134
+-0.659059	su bloque	-1.26564
+-1.00507	su cono	-0.801881
+-1.76555	pongo una
+-0.578535	pongo un	-1.06152
+-0.798689	pongo el	-0.839669
+-1.14343	pongo su
+-0.541583	pongo mi	-0.770033
+-0.818245	pongo la	-1.1407
+-1.34113	mi flecha	-0.320584
+-0.234527	mi círculo	-1.29197
+-0.69602	mi bloque	-0.964608
+-0.825173	mi cono	-0.839669
+-0.916295	toma una	-1.44173
+-0.393525	toma un	-1.65258
+-0.68279	toma el	-1.36255
+-0.91523	toma su	-0.964608
+-1.42147	toma mi	-0.663578
+-1.09994	toma la	-1.26564
+-2.11849	toma cono
+-0.00413967	la flecha	-1.37327
+-0.486986	cono en	-1.46399
+-0.606667	cono rojo	-1.76909
+-0.883662	cono </s>
+-0.535869	cono azul	-1.83967
+-0.139693	roja en	-0.592159
+-0.648033	roja </s>
+-1.22661	tomad una	-1.06152
+-0.822524	tomad un	-1.1407
+-0.13748	tomad el	-1.81739
+-1.68077	tomad mi
+-1.68284	tomad la	-0.663578
+-1.56306	tomo una
+-0.473133	tomo un	-0.964608
+-0.415527	tomo el	-0.797705
+-1.1444	tomo su
+-0.943585	tomo la	-0.839669
+
+\3-grams:
+-0.778233	<s> pone una
+-0.424075	<s> pone un
+-0.793651	<s> pone el
+-0.74884	<s> pone su
+-1.41673	<s> pone mi
+-1.10162	<s> pone la
+-0.958242	<s> poned una
+-1.05831	<s> poned un
+-0.127869	<s> poned el
+-1.24269	<s> poned la
+-0.55106	<s> pongo un
+-0.785018	<s> pongo el
+-1.122	<s> pongo su
+-0.508378	<s> pongo mi
+-0.786608	<s> pongo la
+-0.902981	<s> toma una
+-0.379969	<s> toma un
+-0.674472	<s> toma el
+-0.902942	<s> toma su
+-1.41377	<s> toma mi
+-1.08727	<s> toma la
+-1.22048	<s> tomad una
+-0.81682	<s> tomad un
+-0.127567	<s> tomad el
+-1.68492	<s> tomad mi
+-1.68498	<s> tomad la
+-0.433004	<s> tomo un
+-0.378691	<s> tomo el
+-1.11566	<s> tomo su
+-0.902702	<s> tomo la
+-4.01279e-05	pone una flecha
+-0.436848	pone un bloque
+-0.202491	pone un cono
+-0.458222	pone el bloque
+-0.197956	pone el cono
+-0.550322	pone su flecha
+-0.264724	pone su bloque
+-0.819752	pone su cono
+-0.37643	pone mi bloque
+-0.390953	pone mi cono
+-0.000127713	pone la flecha
+-0.22453	una flecha en
+-0.904468	una flecha </s>
+-0.690974	una flecha azul
+-1.12425	una flecha roja
+-0.482236	flecha en un
+-0.333067	flecha en el
+-0.902984	flecha en su
+-1.09131	flecha en mi
+-0.0163952	flecha azul en
+-0.115618	flecha roja en
+-0.638079	flecha roja </s>
+-0.00058565	en un círculo
+-0.000268388	en el círculo
+-0.00145752	en su círculo
+-0.0023193	en mi círculo
+-0.816138	un círculo en
+-0.467266	un círculo rojo
+-0.493024	un círculo </s>
+-0.732969	un círculo azul
+-0.575019	un bloque en
+-0.682062	un bloque rojo
+-0.788242	un bloque </s>
+-0.440035	un bloque azul
+-0.610794	un cono en
+-0.568301	un cono rojo
+-0.836092	un cono </s>
+-0.470053	un cono azul
+-0.509501	círculo en un
+-0.269886	círculo en el
+-0.966372	círculo en su
+-1.3435	círculo en mi
+-0.616139	círculo rojo en
+-0.12035	círculo rojo </s>
+-0.777922	círculo azul en
+-0.0792392	círculo azul </s>
+-0.813138	el círculo en
+-0.440015	el círculo rojo
+-0.482414	el círculo </s>
+-0.812871	el círculo azul
+-0.444624	el bloque en
+-0.639978	el bloque rojo
+-1.14956	el bloque </s>
+-0.467591	el bloque azul
+-0.406596	el cono en
+-0.626496	el cono rojo
+-0.96977	el cono </s>
+-0.577926	el cono azul
+-0.5706	rojo en un
+-0.247851	rojo en el
+-1.01979	rojo en su
+-1.15175	rojo en mi
+-7.77255e-05	poned una flecha
+-0.400483	poned un bloque
+-0.248098	poned un cono
+-0.385524	poned el bloque
+-0.234082	poned el cono
+-0.000223088	poned la flecha
+-0.54577	bloque en un
+-0.283646	bloque en el
+-0.799115	bloque en su
+-1.44228	bloque en mi
+-0.277478	bloque rojo en
+-0.325964	bloque rojo </s>
+-0.338715	bloque azul en
+-0.26638	bloque azul </s>
+-0.532878	azul en un
+-0.254145	azul en el
+-1.05841	azul en su
+-1.20496	azul en mi
+-0.281794	su flecha en
+-0.702232	su flecha </s>
+-0.57012	su flecha azul
+-0.87751	su círculo en
+-0.424628	su círculo rojo
+-0.467002	su círculo </s>
+-0.823877	su círculo azul
+-0.425544	su bloque en
+-0.432274	su bloque rojo
+-0.60234	su bloque azul
+-0.545618	su cono en
+-0.741358	su cono rojo
+-0.462416	su cono </s>
+-0.725119	su cono azul
+-0.238675	pongo un bloque
+-0.42277	pongo un cono
+-0.339063	pongo el bloque
+-0.338799	pongo el cono
+-0.199897	pongo mi bloque
+-0.587248	pongo mi cono
+-0.000297975	pongo la flecha
+-0.0981391	mi flecha en
+-1.08085	mi círculo en
+-0.349822	mi círculo rojo
+-0.525858	mi círculo </s>
+-0.764275	mi círculo azul
+-0.233538	mi bloque en
+-0.807278	mi bloque rojo
+-0.602621	mi bloque azul
+-0.655334	mi cono en
+-0.493634	mi cono rojo
+-0.358185	mi cono azul
+-9.72974e-05	toma una flecha
+-0.214999	toma un bloque
+-0.421457	toma un cono
+-0.162776	toma el bloque
+-0.541353	toma el cono
+-0.642937	toma su flecha
+-0.393307	toma su bloque
+-0.5116	toma su cono
+-0.36131	toma mi bloque
+-0.372673	toma mi cono
+-0.000223088	toma la flecha
+-0.222425	la flecha en
+-0.717911	la flecha </s>
+-1.34935	la flecha azul
+-0.784606	la flecha roja
+-0.61599	cono en un
+-0.165028	cono en el
+-1.14368	cono en su
+-0.0270439	cono rojo en
+-1.21941	cono rojo </s>
+-0.0222156	cono azul en
+-1.30249	cono azul </s>
+-0.607636	roja en un
+-0.372271	roja en el
+-0.52167	roja en mi
+-0.000233189	tomad una flecha
+-0.248466	tomad un bloque
+-0.399961	tomad un cono
+-0.240684	tomad el bloque
+-0.380209	tomad el cono
+-0.000895052	tomad la flecha
+-0.141765	tomo un bloque
+-0.653227	tomo un cono
+-0.0584103	tomo el bloque
+-0.00059616	tomo la flecha
+\end\

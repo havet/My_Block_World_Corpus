@@ -1,0 +1,379 @@
+
+\data\
+ngram 1= 29
+ngram 2= 102
+ngram 3= 236
+
+\1-grams:
+-1.53386	elle	-1.4377
+-1.43633	met	-0.980101
+-1.8707	une	-1.3982
+-1.59052	flèche	-1.07958
+-0.947712	sur	-1.72515
+-1.19258	un	-1.60461
+-0.938096	cercle	-1.55869
+-0.968456	le	-1.8293
+-1.18133	rouge	-1.79198
+-0.941278	.	-1.6015
+-1.54334	mettez	-1.07923
+-1.33842	bloc	-1.28536
+-1.32857	bleu	-1.64418
+-1.68124	son	-1.11296
+-1.89873	je	-1.06868
+-2.09709	mets	-0.441543
+-1.921	mon	-0.869922
+-2.89873	ma	-0.221849
+-1.68565	prend	-0.728827
+-1.55303	il	-1.4184
+-2.08581	la	-1.17864
+-1.36301	cône	-1.30855
+-2.37585	bleue	-0.801632
+-3.07482	de	-0.258039
+-1.77379	prenez	-0.89011
+-2.31515	prends	-0.355959
+-2.44643	sa	-0.802975
+-2.67688	dans	-0.553097
+-2.21448	<unk>
+
+\2-grams:
+-0.111853	elle met	-0.791993
+-0.715237	elle prend	-0.29053
+-0.811122	met une	-1.08747
+-0.434289	met un	-1.13696
+-0.799835	met le	-0.771202
+-0.940093	met son	-0.666467
+-1.66999	met mon	-0.102196
+-2.50454	met ma
+-1.25441	met la	-0.704256
+-1.36031	met sa	-0.625074
+-0.017254	une flèche	-0.822355
+-0.246349	flèche sur	-0.868112
+-1.07653	flèche rouge	-0.403226
+-0.812462	flèche .	-0.371336
+-0.864673	flèche bleue	-0.750999
+-0.537663	sur un	-1.82097
+-0.275702	sur le	-2.07992
+-0.959779	sur son	-1.4104
+-1.25703	sur mon	-1.13022
+-0.291554	un cercle	-1.21891
+-0.638844	un bloc	-0.880347
+-0.620689	un cône	-0.898076
+-0.891737	cercle sur	-0.94846
+-0.444676	cercle rouge	-1.62071
+-0.489496	cercle .	-1.17652
+-0.792565	cercle bleu	-1.27829
+-3.04408	cercle de	-0.202566
+-2.0835	cercle dans	-0.470172
+-0.241663	le cercle	-1.31527
+-0.687093	le bloc	-1.0524
+-0.678962	le cône	-1.06044
+-0.380046	rouge sur	-1.14359
+-0.243593	rouge .	-1.18138
+-0.604855	. elle	-1.46077
+-0.611372	. mettez	-1.11474
+-0.981576	. je	-1.0949
+-0.621318	. il	-1.44462
+-0.849946	. prenez	-0.856447
+-1.02883	mettez une	-0.801166
+-1.12159	mettez un	-0.403226
+-0.144948	mettez le	-1.31527
+-2.10513	mettez son
+-1.38418	mettez la	-0.528164
+-0.486732	bloc sur	-0.880347
+-0.644297	bloc rouge	-1.03162
+-1.06301	bloc .	-0.285436
+-0.491304	bloc bleu	-1.18138
+-2.40752	bloc dans	-0.355699
+-0.333307	bleu sur	-1.0442
+-0.285436	bleu .	-0.99429
+-0.210528	son cercle	-0.815406
+-0.65221	son bloc	-0.477413
+-0.999601	son cône	-0.176383
+-0.232759	je mets	-0.446074
+-0.480687	je prends	-0.342656
+-1.72385	mets une
+-0.647001	mets un	-0.324044
+-0.876153	mets le	-0.102196
+-1.52512	mets son
+-0.684992	mets mon	-0.324044
+-1.64274	mets ma	-0.355699
+-1.15468	mets la	-0.324044
+-1.81507	mets sa
+-0.238276	mon cercle	-0.554493
+-0.675273	mon bloc	-0.396109
+-0.984085	mon cône	-0.153071
+-0.506263	ma flèche	-0.142408
+-0.887014	ma cône
+-0.998865	prend une	-0.704256
+-0.399691	prend un	-0.926104
+-0.69832	prend le	-0.625074
+-1.09142	prend son	-0.324044
+-2.14247	prend mon	-0.202566
+-2.25326	prend ma
+-1.23625	prend la	-0.528164
+-2.24936	prend sa	-0.102196
+-0.330529	il met	-0.586156
+-0.303767	il prend	-0.698387
+-0.0289913	la flèche	-0.670607
+-0.494732	cône sur	-0.916899
+-0.620274	cône rouge	-1.03162
+-0.902925	cône .	-0.41577
+-0.548669	cône bleu	-1.1022
+-0.0795507	bleue sur	-0.434175
+-1.34327	bleue .
+-0.73438	de son
+-0.55013	de mon	-0.355699
+-1.47957	prenez une	-0.324044
+-0.891824	prenez un	-0.403226
+-0.152743	prenez le	-1.07992
+-2.09107	prenez mon
+-2.17223	prenez ma
+-1.93911	prenez la	-0.355699
+-2.1534	prenez sa
+-1.53013	prends une
+-0.556835	prends un	-0.390848
+-0.600183	prends le	-0.317343
+-1.36853	prends mon	-0.355699
+-1.59343	prends la	-0.102196
+-1.59954	prends sa
+-0.072304	sa flèche	-0.301322
+-0.12479	dans le	-0.579317
+
+\3-grams:
+-0.798192	elle met une
+-0.373701	elle met un
+-0.706627	elle met le
+-0.971139	elle met son
+-2.03515	elle met mon
+-1.21732	elle met la
+-1.50638	elle met sa
+-0.753263	elle prend une
+-0.439266	elle prend un
+-0.79922	elle prend le
+-0.778222	elle prend son
+-1.28885	elle prend la
+-0.00138552	met une flèche
+-0.456538	met un bloc
+-0.213416	met un cône
+-0.512472	met le bloc
+-0.226471	met le cône
+-0.146932	met son bloc
+-0.850548	met son cône
+-0.565803	met mon bloc
+-0.728575	met mon cône
+-0.00557716	met la flèche
+-0.0160866	met sa flèche
+-0.197202	une flèche sur
+-1.26478	une flèche rouge
+-0.948719	une flèche .
+-0.722913	une flèche bleue
+-0.476273	flèche sur un
+-0.318038	flèche sur le
+-0.907107	flèche sur son
+-1.22665	flèche sur mon
+-0.1444	flèche rouge sur
+-0.556053	flèche rouge .
+-0.312394	flèche . elle
+-0.795945	flèche . mettez
+-0.737175	flèche . il
+-0.935571	flèche . prenez
+-0.0130924	flèche bleue sur
+-0.00321924	sur un cercle
+-0.00154452	sur le cercle
+-0.00653344	sur son cercle
+-0.0138055	sur mon cercle
+-0.837092	un cercle sur
+-0.46322	un cercle rouge
+-0.490879	un cercle .
+-0.731141	un cercle bleu
+-0.562401	un bloc sur
+-0.68765	un bloc rouge
+-0.838244	un bloc .
+-0.431005	un bloc bleu
+-0.581374	un cône sur
+-0.576151	un cône rouge
+-0.883172	un cône .
+-0.471766	un cône bleu
+-0.454237	cercle sur un
+-0.284627	cercle sur le
+-0.975845	cercle sur son
+-1.65796	cercle sur mon
+-0.619007	cercle rouge sur
+-0.119604	cercle rouge .
+-0.555169	cercle . elle
+-0.611633	cercle . mettez
+-1.04996	cercle . je
+-0.583301	cercle . il
+-0.902041	cercle . prenez
+-0.783096	cercle bleu sur
+-0.0786794	cercle bleu .
+-0.260042	cercle de mon
+-0.0383846	cercle dans le
+-0.918678	le cercle sur
+-0.431963	le cercle rouge
+-0.467316	le cercle .
+-0.825659	le cercle bleu
+-2.66089	le cercle de
+-1.79198	le cercle dans
+-0.430362	le bloc sur
+-0.635278	le bloc rouge
+-1.21987	le bloc .
+-0.476853	le bloc bleu
+-0.397296	le cône sur
+-0.624083	le cône rouge
+-1.0034	le cône .
+-0.585484	le cône bleu
+-0.571829	rouge sur un
+-0.253367	rouge sur le
+-1.01782	rouge sur son
+-1.11395	rouge sur mon
+-0.542844	rouge . elle
+-0.606621	rouge . mettez
+-0.896084	rouge . je
+-0.717905	rouge . il
+-0.835254	rouge . prenez
+-0.0981229	. elle met
+-0.696716	. elle prend
+-0.996827	. mettez une
+-1.11278	. mettez un
+-0.117272	. mettez le
+-2.05128	. mettez son
+-1.34808	. mettez la
+-0.197939	. je mets
+-0.444583	. je prends
+-0.315452	. il met
+-0.28816	. il prend
+-1.42145	. prenez une
+-0.854678	. prenez un
+-0.102696	. prenez le
+-1.80254	. prenez la
+-0.00268194	mettez une flèche
+-0.508843	mettez un bloc
+-0.318402	mettez un cône
+-0.39349	mettez le bloc
+-0.245979	mettez le cône
+-0.00839197	mettez la flèche
+-0.507493	bloc sur un
+-0.281501	bloc sur le
+-0.829191	bloc sur son
+-1.79521	bloc sur mon
+-0.282597	bloc rouge sur
+-0.321334	bloc rouge .
+-0.677387	bloc . elle
+-0.587921	bloc . mettez
+-0.958655	bloc . je
+-0.687396	bloc . il
+-0.688947	bloc . prenez
+-0.341059	bloc bleu sur
+-0.265304	bloc bleu .
+-0.0506599	bloc dans le
+-0.538617	bleu sur un
+-0.231216	bleu sur le
+-1.13643	bleu sur son
+-1.30906	bleu sur mon
+-0.776512	bleu . elle
+-0.569463	bleu . mettez
+-0.993885	bleu . je
+-0.518396	bleu . il
+-0.805645	bleu . prenez
+-0.95696	son cercle sur
+-0.393835	son cercle rouge
+-0.476389	son cercle .
+-0.830587	son cercle bleu
+-0.520738	son bloc sur
+-0.453742	son bloc rouge
+-0.587239	son bloc bleu
+-1.31968	son bloc dans
+-0.575662	son cône sur
+-0.597045	son cône rouge
+-0.659434	son cône .
+-0.618412	son cône bleu
+-0.54227	je mets un
+-0.83654	je mets le
+-1.38818	je mets son
+-0.552626	je mets mon
+-1.41596	je mets ma
+-1.01714	je mets la
+-0.418045	je prends un
+-0.488815	je prends le
+-1.15319	je prends mon
+-1.39601	je prends la
+-0.326219	mets un bloc
+-0.558345	mets un cône
+-0.573024	mets le bloc
+-0.568065	mets le cône
+-0.249445	mets mon bloc
+-0.950423	mets mon cône
+-0.157044	mets ma flèche
+-0.0135063	mets la flèche
+-1.26527	mon cercle sur
+-0.326395	mon cercle rouge
+-0.502033	mon cercle .
+-0.818991	mon cercle bleu
+-0.335724	mon bloc sur
+-0.767022	mon bloc rouge
+-0.498417	mon bloc bleu
+-0.437955	mon cône sur
+-0.607039	mon cône rouge
+-0.55696	mon cône bleu
+-0.162337	ma flèche sur
+-0.00335554	prend une flèche
+-0.245685	prend un bloc
+-0.432834	prend un cône
+-0.200531	prend le bloc
+-0.636187	prend le cône
+-0.433535	prend son bloc
+-0.508125	prend son cône
+-0.2965	prend mon bloc
+-0.00839197	prend la flèche
+-0.0561142	prend sa flèche
+-0.720071	il met une
+-0.379104	il met un
+-0.945217	il met le
+-0.826897	il met son
+-1.81324	il met mon
+-1.39915	il met la
+-1.28075	il met sa
+-1.13402	il prend une
+-0.275551	il prend un
+-0.618812	il prend le
+-1.39597	il prend son
+-1.74744	il prend mon
+-1.29855	il prend la
+-1.75515	il prend sa
+-0.160989	la flèche sur
+-1.06005	la flèche rouge
+-0.742292	la flèche .
+-0.622459	cône sur un
+-0.154632	cône sur le
+-1.27965	cône sur son
+-0.0299123	cône rouge sur
+-1.18444	cône rouge .
+-0.925698	cône . elle
+-0.424237	cône . mettez
+-1.08899	cône . je
+-0.47194	cône . il
+-1.11051	cône . prenez
+-0.0235725	cône bleu sur
+-1.28866	cône bleu .
+-0.511009	bleue sur un
+-0.249245	bleue sur le
+-0.989295	bleue sur son
+-0.0894627	de mon cercle
+-0.0080961	prenez une flèche
+-0.321919	prenez un bloc
+-0.503446	prenez un cône
+-0.256137	prenez le bloc
+-0.401341	prenez le cône
+-0.0125434	prenez la flèche
+-0.261996	prends un bloc
+-0.624952	prends un cône
+-0.209421	prends le bloc
+-0.185582	prends mon bloc
+-0.0227503	prends la flèche
+-0.242097	sa flèche sur
+-0.951613	sa flèche rouge
+-0.934548	sa flèche .
+-0.769425	sa flèche bleue
+-0.051795	dans le cercle
+\end\

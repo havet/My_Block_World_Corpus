@@ -1,0 +1,337 @@
+
+\data\
+ngram 1= 23
+ngram 2= 86
+ngram 3= 216
+
+\1-grams:
+-3.37484	<s>	-2.06819
+-1.53286	she	-2.31597
+-1.43532	puts	-1.93702
+-2.01311	an	-2.13033
+-1.58951	arrow	-2.25888
+-0.937089	on	-2.51614
+-1.16801	a	-2.28466
+-0.937089	circle	-2.91408
+-0.935507	the	-2.43854
+-1.18033	red	-2.36922
+-0.940271	</s>
+-1.43782	put	-1.9345
+-1.29206	blue	-2.25708
+-1.33741	block	-2.51255
+-2.05262	his	-1.31175
+-1.89772	I	-1.94694
+-1.88348	my	-1.4843
+-1.80664	her	-1.56229
+-1.68464	takes	-1.68574
+-1.55202	he	-2.29666
+-1.362	cone	-2.48784
+-1.66727	take	-1.70329
+-2.31414	<unk>
+
+\2-grams:
+-0.597933	<s> she	-1.48112
+-0.607384	<s> put	-1.18404
+-0.968364	<s> I	-1.1121
+-0.617285	<s> he	-1.46182
+-0.840848	<s> take	-0.960881
+-0.103685	she puts	-0.950981
+-0.682293	she takes	-0.465732
+-0.966528	puts an	-0.921029
+-0.36413	puts a	-0.915277
+-0.637087	puts the	-0.545365
+-1.13478	puts his	-0.167654
+-1.41244	puts my	-0.180846
+-0.966253	puts her	-0.273762
+-0.00314561	an arrow	-0.994458
+-0.0971629	arrow on	-0.930077
+-0.707247	arrow </s>
+-0.545476	on a	-1.35828
+-0.268371	on the	-1.63498
+-1.44393	on his	-0.466184
+-1.21051	on my	-0.696633
+-1.11793	on her	-0.788403
+-0.6381	a circle	-1.21048
+-0.539066	a red	-1.0087
+-0.539182	a blue	-1.0087
+-1.01875	a block	-0.832607
+-1.03318	a cone	-0.818367
+-0.580398	circle on	-1.10167
+-0.132959	circle </s>
+-1.23826	the arrow	-0.846395
+-0.581518	the circle	-1.49961
+-0.530597	the red	-1.24973
+-0.703068	the blue	-1.14329
+-1.06971	the block	-1.01334
+-1.00116	the cone	-1.08161
+-1.42593	red arrow	-0.420427
+-0.197883	red circle	-1.63791
+-0.788907	red block	-1.04882
+-0.788936	red cone	-1.04882
+-1.16786	put an	-0.721457
+-0.823867	put a	-0.455189
+-0.167719	put the	-1.01149
+-2.00909	put his	-0.393658
+-1.16761	put my	-0.262423
+-1.80451	put her
+-1.11015	blue arrow	-0.763026
+-0.42864	blue circle	-1.29549
+-0.526329	blue block	-1.19858
+-0.605864	blue cone	-1.1194
+-0.210187	block on	-1.07041
+-0.418727	block </s>
+-1.17851	his arrow	-0.21994
+-0.537316	his circle	-0.420427
+-0.621615	his red	-0.270372
+-0.722432	his blue	-0.173462
+-0.935302	his block	-0.341245
+-1.17289	his cone	-0.21994
+-0.206293	I put	-0.583917
+-0.434773	I take	-0.475207
+-1.35106	my arrow	-0.21994
+-0.674812	my circle	-0.455189
+-0.488693	my red	-0.571402
+-0.587532	my blue	-0.309987
+-0.955471	my block	-0.487373
+-1.54141	my cone	-0.393658
+-1.03607	her arrow	-0.32937
+-0.661984	her circle	-0.545365
+-0.435209	her red	-0.701736
+-0.693979	her blue	-0.281959
+-1.28829	her block	-0.244335
+-1.28888	her cone	-0.086332
+-1.00062	takes an	-0.642275
+-0.365569	takes a	-0.663465
+-0.541188	takes the	-0.390463
+-1.31612	takes his	-0.281357
+-1.41941	takes my	-0.393658
+-1.1004	takes her	-0.173462
+-0.316495	he puts	-0.670304
+-0.290111	he takes	-0.794146
+-0.0768731	cone on	-1.17883
+-0.796633	cone </s>
+-1.43776	take an	-0.244335
+-0.665815	take a	-0.382638
+-0.16611	take the	-0.782154
+-2.16902	take his
+-1.43696	take my	-0.153674
+-2.16054	take her
+
+\3-grams:
+-0.0972609	<s> she puts
+-0.697896	<s> she takes
+-1.16085	<s> put an
+-0.952892	<s> put a
+-0.090021	<s> put the
+-0.196179	<s> I put
+-0.44052	<s> I take
+-0.314935	<s> he puts
+-0.287694	<s> he takes
+-1.88202	<s> take an
+-0.764498	<s> take a
+-0.100926	<s> take the
+-1.71918	<s> take my
+-1.0813	she puts an
+-0.321446	she puts a
+-0.567085	she puts the
+-1.71796	she puts his
+-1.69635	she puts my
+-0.890061	she puts her
+-0.892786	she takes an
+-0.462499	she takes a
+-0.583001	she takes the
+-1.26654	she takes my
+-0.721355	she takes her
+-0.000376381	puts an arrow
+-0.61129	puts a red
+-0.365119	puts a blue
+-0.849996	puts a block
+-0.811893	puts a cone
+-0.678847	puts the arrow
+-0.520021	puts the red
+-0.648851	puts the blue
+-1.03485	puts the block
+-1.01575	puts the cone
+-0.661696	puts his red
+-0.470935	puts his blue
+-0.871719	puts his block
+-0.415308	puts my red
+-0.613757	puts my block
+-1.06073	puts her arrow
+-0.352689	puts her red
+-0.702688	puts her blue
+-0.928131	puts her block
+-0.0692749	an arrow on
+-0.832653	an arrow </s>
+-0.482082	arrow on a
+-0.315939	arrow on the
+-1.93328	arrow on his
+-1.06131	arrow on my
+-1.0528	arrow on her
+-0.328056	on a circle
+-0.471338	on a red
+-0.735295	on a blue
+-0.31293	on the circle
+-0.445599	on the red
+-0.825624	on the blue
+-0.232656	on his circle
+-0.662039	on his red
+-0.996425	on his blue
+-0.446307	on my circle
+-0.357126	on my red
+-0.792032	on my blue
+-0.44112	on her circle
+-0.33925	on her red
+-0.837617	on her blue
+-0.50904	a circle on
+-0.161007	a circle </s>
+-1.48234	a red arrow
+-0.216428	a red circle
+-0.816096	a red block
+-0.685111	a red cone
+-0.910495	a blue arrow
+-0.48965	a blue circle
+-0.546318	a blue block
+-0.570889	a blue cone
+-0.200655	a block on
+-0.432214	a block </s>
+-0.164531	a cone on
+-0.501732	a cone </s>
+-0.515244	circle on a
+-0.256016	circle on the
+-1.5423	circle on his
+-1.35063	circle on my
+-1.17656	circle on her
+-0.100911	the arrow on
+-0.68459	the arrow </s>
+-0.505934	the circle on
+-0.16239	the circle </s>
+-1.72337	the red arrow
+-0.170098	the red circle
+-0.825642	the red block
+-0.808061	the red cone
+-0.378063	the blue circle
+-0.492695	the blue block
+-0.595524	the blue cone
+-0.0751686	the block on
+-0.799416	the block </s>
+-0.0916172	the cone on
+-0.721284	the cone </s>
+-0.0636033	red arrow on
+-0.870887	red arrow </s>
+-0.625318	red circle on
+-0.117467	red circle </s>
+-0.26776	red block on
+-0.33726	red block </s>
+-0.012618	red cone on
+-1.54648	red cone </s>
+-0.000595956	put an arrow
+-0.611808	put a red
+-0.359786	put a blue
+-1.00098	put a block
+-0.862838	put a cone
+-1.20016	put the arrow
+-0.635549	put the red
+-0.62136	put the blue
+-0.712321	put the block
+-0.607927	put the cone
+-0.191841	put his block
+-0.43412	put my blue
+-0.541653	put my block
+-0.0152909	blue arrow on
+-0.81064	blue circle on
+-0.0729897	blue circle </s>
+-0.331897	blue block on
+-0.272335	blue block </s>
+-0.0107019	blue cone on
+-1.61706	blue cone </s>
+-0.559301	block on a
+-0.235772	block on the
+-1.33957	block on his
+-1.39288	block on my
+-1.24689	block on her
+-0.287677	his arrow </s>
+-0.796146	his circle on
+-0.0758548	his circle </s>
+-0.855954	his red arrow
+-0.213022	his red circle
+-0.797644	his red block
+-0.847151	his blue arrow
+-0.468376	his blue circle
+-0.457633	his blue block
+-0.0834769	his block on
+-0.0446796	his cone on
+-0.60593	I put a
+-0.384192	I put the
+-0.55214	I put my
+-1.44001	I put her
+-0.478439	I take a
+-0.237057	I take the
+-1.17766	I take my
+-0.0559165	my arrow on
+-0.830908	my circle on
+-0.0695254	my circle </s>
+-0.0935788	my red circle
+-0.986218	my red block
+-1.09869	my red cone
+-0.381831	my blue circle
+-0.500527	my blue block
+-0.64026	my blue cone
+-0.0579457	my block on
+-0.0294362	my cone on
+-0.042824	her arrow on
+-0.610964	her circle on
+-0.122165	her circle </s>
+-0.127667	her red circle
+-0.769219	her red block
+-1.11656	her red cone
+-0.292894	her blue circle
+-0.56826	her blue block
+-0.750689	her blue cone
+-0.107119	her block on
+-0.506954	her cone </s>
+-0.000715041	takes an arrow
+-0.608069	takes a red
+-0.436999	takes a blue
+-0.804092	takes a block
+-0.744405	takes a cone
+-0.642377	takes the arrow
+-0.836579	takes the red
+-0.545231	takes the blue
+-1.01715	takes the block
+-0.860851	takes the cone
+-0.439557	takes his red
+-0.562962	takes his cone
+-0.367409	takes my red
+-0.395294	takes my blue
+-0.676264	takes her arrow
+-0.646216	takes her blue
+-0.904394	takes her cone
+-0.892472	he puts an
+-0.3344	he puts a
+-0.731562	he puts the
+-0.818352	he puts his
+-1.70924	he puts my
+-1.30118	he puts her
+-1.25137	he takes an
+-0.271066	he takes a
+-0.492801	he takes the
+-1.32081	he takes his
+-1.62624	he takes my
+-0.563743	cone on a
+-0.210783	cone on the
+-2.18203	cone on his
+-1.36496	cone on my
+-1.21065	cone on her
+-0.0017891	take an arrow
+-0.539257	take a red
+-0.539306	take a blue
+-0.594689	take a block
+-1.14774	take a cone
+-1.31001	take the arrow
+-0.606381	take the red
+-0.560585	take the blue
+-0.735334	take the block
+-0.697163	take the cone
+-0.319226	take my blue
+\end\

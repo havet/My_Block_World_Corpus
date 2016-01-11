@@ -1,0 +1,127 @@
+Rev. 141002
+
+Swedish grammar for the Block World Corpus
+==========================================
+
+This document is meant to give enough knowledge of Swedish grammar to understand the phenomena of the block world. Only differences to English are pointed out.
+
+Verbs
+-----
+
+In Swedish there isn’t any verb agreement based on person. This means that the first and third person present have the same form:
+
+    jag ställer — I put
+    han/hon ställer — he/she puts
+    jag tar — I take
+    han/hon tar — he/she takes
+
+There is a special imperative form in Swedish. The imperative form does not have the same form as the present tense:
+
+    att ställa — to put
+    jag ställer — I put
+    ställ! — put! (imperative)
+    att ta — to take
+    jag tar — I take
+    ta! — take! (imperative)
+
+Noun phrases
+------------
+
+Nouns
+- - -
+
+Swedish nouns have grammatical gender. There are two genders: uter (common), derived from earlier masculine and female genders, and neuter. In simplified grammars you might find the notion of n-words (uter) and t-words (neuter) because of the articles and suffixes used for each gender. Uter is overall more frequent than neuter.
+
+The nouns in the corpus have the following gender and forms:
+
+    uter: cirkel/cirkeln – circle
+    uter: kon/konen – cone
+    uter: pil/pilen – arrow
+    neuter: block/blocket – block
+
+Articles agree with nouns for gender. The indefinite article is ‘en’ for uter and ‘ett’ for neuter. The definite article is ‘den’ in uter and ‘det’ in neuter.
+
+Definiteness is more complex in Swedish than in English, though. For non-modified nouns there is a definite noun suffix, but not any preceding definite article. (There are some exceptions, but those doesn’t apply to this corpus).
+
+    en kon / konen -  a cone / the cone (utrum/common/n-word)
+    ett block / blocket – a block / the block (neuter/t-word)
+
+In modified noun phrases both the definite article and the definite suffix are used. The definiteness is in this case expressed twice in Swedish.
+
+    en röd kon / den röda konen -  a red cone / the red cone (utrum/common/n-word)
+    ett rött block / det röda blocket – a red block / the red block (neuter/t-word)
+
+Adjectives
+- - - - - 
+
+Adjectives also agree with nouns, except for definite modified noun phrases. The definite form of the adjective is traditionally called weak (as in German). The indefinite form is traditionally called strong, because it conveys more information (gender and number).
+
+The definite form is used after definite articles and possessive pronouns, otherwise the indefinite form is used. It is only the indefinite form that agrees in gender with the noun. The plural forms are omitted below, as they are absent in the block world corpus (they are identical to the definite form).
+
+    en röd kon / den röda konen -  a red cone / the red cone (utrum/common/n-word)
+    ett rött block / det röda blocket – a red block / the red block (neuter/t-word)
+
+The forms for the adjectives in the Block Word Corpus are as follows (indefinite uter, indefinite neuter, definite):
+
+    blå, blått, blåa — blue
+    röd, rött, röda — red
+    grön, grönt, gröna – green
+
+Some more examples for correct noun phrases for a neuter and a uter nouns are:
+a block/circle 	a green block/circle 	the block/circle 	the green block/circle
+ett block 	ett grönt block 	blocket 	det gröna blocket
+en cirkel 	en grön cirkel 	cirkeln 	den gröna cirkeln
+
+Possessive pronouns
+- - - - - - - - - -
+
+The possessive pronouns are similar to English for all persons, except the third person singular and plural. The possessive pronouns agree with nouns in the same way as articles, with the forms ending with ‘n’ beeing the uter forms.  The forms for the first person singular are shown below:
+
+    Jag tar min kon — I take my block (uter/common/n-word)  [en kon - konen - min kon]
+    Jag tar mitt block — I take my block (neuter/t-word) [ett block - blocket - mitt block]
+
+In the Block World domain you will have to pay attention to the translation of third person singular (his/hers). In Swedish there are two possibilities for those pronouns, depending on if the possessed thing belongs to the person in question (the subject) or to someone else:
+
+    Hon tar sitt block — She takes her own block
+    Hon tar hennes block — She take some other woman’s block
+    Han tar sitt block — He takes his own block
+    Han tar hans block — He take some other man’s block
+
+This isn’t an issue if the two persons involved have different sexes, but English sentences like ”She takes her block” are ambiguous. It can mean either that she takes her own, or some other woman’s block. Anyhow, the standard, unmarked reading is that it is her own. You might ignore this issue by assuming the standard reading when possible, and the someone else reading when that is the only possibility, as in ”I take her block”, ”He takes her block” and ”She takes his block”.
+
+The possessive pronouns for someone’s own agree with nouns, similarly to the possessive pronouns min/mitt above. Note that the forms are identical for both men and women:
+
+    Hon tar sin kon — She takes her own cone (uter/common/n-word) [en kon - konen - sin kon]
+    Han tar sin kon — He takes his own cone (uter/common/n-word)
+    Hon tar sitt block — She takes her own block (neuter/t-word) [ett block - blocket - sitt block]
+    Han tar sitt block — He takes his own block (neuter/t-word)
+
+On the other hand, the someone-else-pronouns don’t follow the pattern, as they are not inflected, what ever the gender of the noun:
+
+    Hon tar hennes kon — She take some other woman’s cone (uter/common/n-word)
+    Hon tar hennes block — She take some other woman’s block (neuter/t-word)
+    Han tar hans kon — He take some other man’s cone (uter/common/n-word)
+    Han tar hans block — He take some other man’s block (neuter/t-word)
+
+Examples of ungrammatical phrases
+---------------------------------
+
+Below are some examples of ungrammatical constructions. Make sure that you understand what the problems are.
+
+    *ett cirkel
+    *en block
+    *blocken
+    *det blocket
+    *det röd blocket
+    *en rött cirkel
+    *hon ta blocket
+    *tar blocket
+    *hon tar sin block
+    *hon tar röda blocket
+    *hon tar sitt röda blocket
+
+Some of these phrases might be grammatical in other readings than in the Block World Corpus, for instance, ”det blocket” which can mean ”that block” in a demonstrative reading, with a marked intonation on det (demonstrative pronoun). Likewise, ”blocken” is correct plural in unmodified definite form (the blocks).
+
+* = Ungrammatical
+
+Credit: This text is an adaptation of the text ”Swedish grammar sketch for lab 2" (for the Master course in Machine Translation 2013) by the kind consent of the author, Postdoc in MT, Sara Stymne, Uppsala University, Sweden.

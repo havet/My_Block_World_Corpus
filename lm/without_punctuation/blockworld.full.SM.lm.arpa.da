@@ -1,0 +1,474 @@
+
+\data\
+ngram 1= 34
+ngram 2= 137
+ngram 3= 291
+
+\1-grams:
+-3.33945	<s>	-2.12896
+-1.65371	tag	-1.5777
+-1.79538	det	-2.17464
+-1.15904	røde	-2.27173
+-1.51015	bloket	-2.4629
+-0.894626	</s>
+-1.43636	stil	-1.79683
+-1.35045	keglen	-2.62359
+-0.89933	på	-2.53209
+-1.14217	den	-2.83272
+-0.973963	cirklen	-3.00137
+-1.63188	han	-2.34011
+-1.5874	tager	-1.5721
+-2.17808	sit	-1.60686
+-1.57978	blok	-2.3927
+-1.64926	hun	-2.32256
+-1.36173	stiller	-1.79934
+-1.93291	sin	-1.85867
+-1.26027	blå	-2.11213
+-1.696	cirkel	-2.27531
+-1.80797	en	-1.76393
+-2.12197	pil	-1.84094
+-1.62345	jeg	-2.34863
+-2.27875	hendes	-1.28027
+-1.92448	kegle	-2.04336
+-2.12197	et	-1.53991
+-2.86233	blåt	-1.33579
+-2.13533	pilen	-1.82715
+-2.31826	hans	-1.33579
+-2.109	min	-1.55328
+-2.41003	rød	-1.36382
+-2.09641	mit	-1.69118
+-3.16336	rødt	-0.937852
+-2.109	<unk>
+
+\2-grams:
+-0.765768	<s> tag	-1.2822
+-0.546229	<s> stil	-1.50132
+-0.743666	<s> han	-2.09985
+-0.761257	<s> hun	-2.0823
+-0.735131	<s> jeg	-2.10837
+-0.570485	tag det	-1.5105
+-0.782307	tag bloket	-1.29965
+-0.729843	tag keglen	-1.3508
+-1.03034	tag den	-1.04977
+-1.30024	tag en	-0.167328
+-1.53782	tag hendes
+-1.09082	tag et	-0.998619
+-1.53701	tag pilen	-0.87368
+-1.40462	tag hans	-0.221618
+-2.08521	tag min
+-1.53674	tag mit	-0.330598
+-0.336405	det røde	-1.90171
+-0.273066	det blå	-1.96476
+-0.96388	røde bloket	-1.61404
+-0.977016	røde keglen	-1.60068
+-0.287047	røde cirklen	-2.28865
+-1.20558	røde blok	-1.37428
+-0.880105	røde cirkel	-1.69759
+-1.37319	røde kegle	-0.96742
+-1.53646	røde pilen	-1.3508
+-0.485353	bloket </s>
+-0.173696	bloket på	-1.42179
+-0.883128	stil det	-1.41775
+-0.772491	stil bloket	-1.82792
+-0.58986	stil keglen	-2.00934
+-0.657923	stil den	-1.6396
+-1.03088	stil en	-0.832915
+-1.95035	stil hendes	-0.697589
+-1.75604	stil et
+-1.36967	stil pilen	-1.24166
+-2.30851	stil hans
+-1.62287	stil min	-0.697589
+-1.75586	stil mit	-0.330598
+-0.843319	keglen </s>
+-0.0681456	keglen på	-1.74207
+-0.386474	på den	-2.44964
+-0.365723	på cirklen	-2.47028
+-1.16301	på sin	-1.67531
+-1.46633	på en	-1.19819
+-1.84951	på hendes	-0.998619
+-2.06121	på hans	-0.552447
+-1.51552	på min	-1.14989
+-0.205114	den røde	-2.21169
+-0.425805	den blå	-1.99132
+-0.147294	cirklen </s>
+-0.542294	cirklen på	-1.64581
+-0.462977	han tager	-0.72377
+-0.186167	han stiller	-1.2161
+-1.0151	tager det	-1.13692
+-1.28118	tager bloket	-0.87368
+-0.796289	tager keglen	-1.3508
+-1.09568	tager den	-1.04977
+-0.977736	tager sit	-0.998619
+-1.36759	tager sin	-0.318528
+-1.05729	tager en	-0.656824
+-1.28691	tager hendes	-0.330598
+-1.2864	tager et	-0.631628
+-1.47044	tager pilen	-0.455537
+-1.28702	tager hans	-0.522264
+-1.36865	tager min	-0.443083
+-0.909551	tager mit	-1.06557
+-0.764361	sit røde	-0.552447
+-0.307674	sit blok	-1.24166
+-0.502318	sit blå	-1.3508
+-0.33404	blok </s>
+-0.272805	blok på	-1.25288
+-0.433117	hun tager	-0.763198
+-0.202945	hun stiller	-1.12149
+-1.24234	stiller det	-1.13692
+-1.10439	stiller bloket	-1.57265
+-0.675456	stiller keglen	-1.99862
+-0.732574	stiller den	-1.6396
+-1.0781	stiller sit	-1.12356
+-1.44368	stiller sin	-0.940627
+-1.02565	stiller en	-1.17471
+-1.83163	stiller hendes	-0.330598
+-1.10644	stiller et	-0.728538
+-1.59602	stiller pilen	-1.09553
+-1.69855	stiller hans	-0.455537
+-1.51359	stiller min	-0.87368
+-1.13679	stiller mit	-1.06557
+-0.210176	sin røde	-1.23547
+-0.500113	sin blå	-1.29965
+-1.25532	sin kegle	-0.87368
+-0.81224	blå bloket	-1.66373
+-0.72662	blå keglen	-1.74874
+-0.533516	blå cirklen	-1.94063
+-0.889596	blå blok	-1.58689
+-1.0602	blå cirkel	-1.1757
+-1.23905	blå pil	-1.24166
+-1.12819	blå kegle	-1.3508
+-1.93392	blå pilen	-0.87368
+-0.0539993	cirkel </s>
+-0.94708	cirkel på	-0.552447
+-0.48697	en blå	-1.26186
+-0.835182	en cirkel	-1.39656
+-0.719614	en pil	-1.20947
+-1.06392	en kegle	-0.87368
+-0.62814	en rød	-1.12356
+-0.559284	pil </s>
+-0.146693	pil på	-1.28117
+-0.402378	jeg tager	-1.0551
+-0.221924	jeg stiller	-1.18895
+-0.34902	hendes røde	-0.744113
+-0.762685	hendes blok	-0.455537
+-0.658242	hendes blå	-0.552447
+-1.08897	hendes cirkel	-0.697589
+-1.45147	hendes pil
+-0.634657	kegle </s>
+-0.118432	kegle på	-1.0854
+-0.166823	et blok	-1.43795
+-1.05491	et blå	-0.87368
+-0.826587	et blåt	-1.09553
+-1.25721	et rødt	-0.697589
+-0.0199693	blåt blok	-0.794499
+-1.03987	pilen </s>
+-0.0468888	pilen på	-0.94149
+-0.717464	hans røde	-0.455537
+-0.854878	hans blok	-0.330598
+-0.355565	hans blå	-1.04977
+-0.722641	hans cirkel	-0.455537
+-0.347278	min røde	-1.27162
+-0.573049	min blå	-1.04977
+-0.686784	min cirkel	-1.24166
+-1.26804	min kegle
+-0.75958	rød cirkel	-0.87368
+-0.627265	rød pil	-0.998619
+-0.26075	rød kegle	-1.3508
+-0.586146	mit røde	-1.3508
+-0.391995	mit blok	-1.24166
+-0.497763	mit blå	-1.43795
+-0.0517578	rødt blok	-0.697589
+
+\3-grams:
+-0.55177	<s> tag det
+-0.766733	<s> tag bloket
+-0.714338	<s> tag keglen
+-1.02485	<s> tag den
+-1.29655	<s> tag en
+-1.54388	<s> tag hendes
+-1.07889	<s> tag et
+-1.54384	<s> tag pilen
+-1.40292	<s> tag hans
+-1.54383	<s> tag mit
+-0.873941	<s> stil det
+-0.762931	<s> stil bloket
+-0.579312	<s> stil keglen
+-0.648721	<s> stil den
+-1.02341	<s> stil en
+-1.98262	<s> stil hendes
+-1.77219	<s> stil et
+-1.36808	<s> stil pilen
+-1.63107	<s> stil min
+-1.77218	<s> stil mit
+-0.461806	<s> han tager
+-0.183979	<s> han stiller
+-0.43174	<s> hun tager
+-0.200718	<s> hun stiller
+-0.400939	<s> jeg tager
+-0.219884	<s> jeg stiller
+-0.33693	tag det røde
+-0.268018	tag det blå
+-0.30863	tag bloket </s>
+-0.293671	tag bloket på
+-0.267881	tag keglen </s>
+-0.336995	tag keglen på
+-0.246743	tag den røde
+-0.363201	tag den blå
+-0.42198	tag en kegle
+-0.114547	tag et blok
+-0.667974	tag et blåt
+-0.0059863	tag pilen på
+-0.177557	tag hans blå
+-0.166611	tag mit blå
+-0.00488107	det røde bloket
+-0.00400292	det blå bloket
+-0.376713	røde bloket </s>
+-0.236647	røde bloket på
+-1.07156	røde keglen </s>
+-0.0385085	røde keglen på
+-0.131784	røde cirklen </s>
+-0.582156	røde cirklen på
+-0.165793	røde blok </s>
+-0.498656	røde blok på
+-0.0666715	røde cirkel </s>
+-0.846995	røde cirkel på
+-0.0113193	røde kegle på
+-0.00198585	røde pilen på
+-0.246687	bloket på den
+-0.538156	bloket på cirklen
+-1.18836	bloket på sin
+-1.52045	bloket på en
+-1.53456	bloket på hans
+-1.7231	bloket på min
+-0.369494	stil det røde
+-0.242073	stil det blå
+-0.002133	stil bloket på
+-0.000617251	stil keglen på
+-0.311093	stil den røde
+-0.29122	stil den blå
+-0.450436	stil en blå
+-0.396565	stil en pil
+-0.682275	stil en rød
+-0.0510071	stil hendes røde
+-0.00255543	stil pilen på
+-0.309923	stil min røde
+-0.343609	stil min blå
+-0.184396	stil mit røde
+-0.376045	keglen på den
+-0.339902	keglen på cirklen
+-1.14803	keglen på sin
+-1.46412	keglen på en
+-1.79028	keglen på min
+-0.160707	på den røde
+-0.509632	på den blå
+-0.170166	på cirklen </s>
+-0.489224	på cirklen på
+-0.163253	på sin røde
+-0.505975	på sin blå
+-0.501254	på en blå
+-0.288651	på en cirkel
+-0.819038	på en rød
+-0.127988	på hendes røde
+-0.681907	på hendes cirkel
+-0.11192	på hans cirkel
+-0.376761	på min røde
+-0.764995	på min blå
+-0.394991	på min cirkel
+-0.804755	den røde keglen
+-0.0985185	den røde cirklen
+-1.35606	den røde pilen
+-0.420366	den blå keglen
+-0.227088	den blå cirklen
+-1.65478	den blå pilen
+-0.462669	cirklen på den
+-0.26116	cirklen på cirklen
+-1.44213	cirklen på sin
+-1.69225	cirklen på en
+-1.2984	cirklen på min
+-1.19435	han tager det
+-1.2552	han tager bloket
+-0.660091	han tager keglen
+-1.21586	han tager den
+-0.745097	han tager sit
+-0.829891	han tager en
+-1.07563	han tager et
+-1.09343	han tager pilen
+-1.16152	han tager mit
+-1.23653	han stiller det
+-1.12808	han stiller bloket
+-0.690953	han stiller keglen
+-0.694338	han stiller den
+-0.920054	han stiller sit
+-1.14347	han stiller sin
+-0.975876	han stiller en
+-1.12822	han stiller et
+-1.25129	han stiller pilen
+-1.54272	han stiller mit
+-0.345158	tager det røde
+-0.261314	tager det blå
+-0.508353	tager bloket </s>
+-0.161495	tager bloket på
+-0.186573	tager keglen </s>
+-0.456986	tager keglen på
+-0.632194	tager den røde
+-0.115406	tager den blå
+-0.631119	tager sit røde
+-0.363889	tager sit blok
+-0.479584	tager sit blå
+-0.262471	tager sin kegle
+-0.479272	tager en blå
+-0.55456	tager en kegle
+-0.506184	tager en rød
+-0.459514	tager hendes blok
+-0.432906	tager hendes blå
+-0.0336191	tager et blok
+-0.166444	tager pilen </s>
+-0.489409	tager hans røde
+-0.247485	tager hans blå
+-0.380803	tager min blå
+-0.469553	tager min kegle
+-0.55385	tager mit røde
+-0.439675	tager mit blok
+-0.448778	tager mit blå
+-0.132413	sit røde blok
+-0.67328	sit blok </s>
+-0.103672	sit blok på
+-0.0172025	sit blå blok
+-0.353994	blok på den
+-0.505054	blok på cirklen
+-0.839229	blok på sin
+-1.35153	blok på en
+-1.56866	blok på hendes
+-1.55419	blok på min
+-0.840423	hun tager det
+-1.14276	hun tager keglen
+-0.848992	hun tager den
+-0.760255	hun tager sit
+-0.969141	hun tager sin
+-0.845086	hun tager en
+-1.28575	hun tager min
+-0.916464	hun tager mit
+-1.19844	hun stiller det
+-1.31384	hun stiller bloket
+-0.565946	hun stiller keglen
+-0.625392	hun stiller den
+-0.883111	hun stiller sit
+-1.53865	hun stiller sin
+-0.938163	hun stiller en
+-1.18767	hun stiller et
+-1.49859	hun stiller mit
+-0.265519	stiller det røde
+-0.340111	stiller det blå
+-0.00384653	stiller bloket på
+-0.000633372	stiller keglen på
+-0.337265	stiller den røde
+-0.267611	stiller den blå
+-0.947442	stiller sit røde
+-0.240734	stiller sit blok
+-0.507119	stiller sit blå
+-0.233017	stiller sin røde
+-0.389881	stiller sin blå
+-0.410733	stiller en blå
+-0.571477	stiller en pil
+-0.485737	stiller en rød
+-0.196876	stiller hendes blå
+-0.0789247	stiller et blok
+-0.909931	stiller et blå
+-0.00358132	stiller pilen på
+-0.0946513	stiller hans blå
+-0.180514	stiller min røde
+-0.5197	stiller min blå
+-0.864887	stiller mit røde
+-0.187713	stiller mit blok
+-0.671712	stiller mit blå
+-0.0791312	sin røde cirkel
+-0.926098	sin røde kegle
+-0.137102	sin blå cirkel
+-0.642421	sin blå pil
+-0.0470802	sin kegle </s>
+-0.270196	blå bloket </s>
+-0.334274	blå bloket på
+-1.21963	blå keglen </s>
+-0.0270285	blå keglen på
+-0.103392	blå cirklen </s>
+-0.673987	blå cirklen på
+-0.261664	blå blok </s>
+-0.344398	blå blok på
+-0.00340107	blå cirkel </s>
+-0.886025	blå pil </s>
+-0.0607939	blå pil på
+-0.81047	blå kegle </s>
+-0.0731516	blå kegle på
+-0.0059863	blå pilen på
+-0.236117	cirkel på cirklen
+-0.578666	cirkel på hendes
+-0.586279	en blå cirkel
+-0.357079	en blå pil
+-0.587437	en blå kegle
+-0.00204196	en cirkel </s>
+-0.85384	en pil </s>
+-0.0658427	en pil på
+-0.200102	en kegle </s>
+-0.433813	en kegle på
+-0.755703	en rød cirkel
+-0.614985	en rød pil
+-0.23755	en rød kegle
+-0.128906	pil på den
+-0.867944	pil på cirklen
+-0.93336	pil på sin
+-1.01646	jeg tager det
+-1.16753	jeg tager bloket
+-0.65013	jeg tager keglen
+-1.33668	jeg tager den
+-0.932878	jeg tager hendes
+-1.36103	jeg tager et
+-0.850464	jeg tager hans
+-1.36894	jeg tager min
+-0.707339	jeg tager mit
+-1.34085	jeg stiller det
+-0.952646	jeg stiller bloket
+-0.733741	jeg stiller keglen
+-0.871147	jeg stiller den
+-1.19284	jeg stiller en
+-1.36786	jeg stiller hendes
+-1.0206	jeg stiller et
+-1.22666	jeg stiller hans
+-1.03487	jeg stiller min
+-0.797126	jeg stiller mit
+-0.566869	hendes røde blok
+-0.233863	hendes røde cirkel
+-0.0904326	hendes blok </s>
+-0.121545	hendes blå blok
+-0.0103092	hendes cirkel </s>
+-0.447596	kegle på den
+-0.269281	kegle på cirklen
+-1.0219	kegle på en
+-0.3896	et blok </s>
+-0.22758	et blok på
+-0.0537989	et blå blok
+-0.00156874	et blåt blok
+-0.00990166	et rødt blok
+-0.226121	blåt blok </s>
+-0.392128	blåt blok på
+-0.675237	pilen på den
+-0.146586	pilen på cirklen
+-1.21761	pilen på min
+-0.172952	hans røde blok
+-0.125309	hans blok </s>
+-0.385782	hans blå blok
+-0.285999	hans blå kegle
+-0.161621	hans cirkel på
+-0.349725	min røde cirkel
+-0.293412	min røde kegle
+-0.52796	min blå cirkel
+-0.201543	min blå kegle
+-0.00292064	min cirkel </s>
+-0.0068457	rød cirkel </s>
+-0.0327528	rød pil </s>
+-0.00464603	rød kegle på
+-0.0185474	mit røde blok
+-0.67328	mit blok </s>
+-0.103672	mit blok på
+-0.014024	mit blå blok
+-0.0426717	rødt blok på
+\end\

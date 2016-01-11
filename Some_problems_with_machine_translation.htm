@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv-SE">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv-SE">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html style="height: 100%;" lang="sv-SE">
+<head>
+<title>Some Problems with Machine Translation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<h1>Some Problems with Machine Translation (MT)</h1>
+<p>You can use a synthetic test corpus to study how specific translation problems 
+  are treated by different translation models or translation programs. <b>My Block 
+  World Corpus</b> is such a corpus.</p>
+<p>The corpus was originally built to test some differences between Swedish and English grammar:</p>
+<ul>
+<li>Agreement of articles with nouns for gender.
+<li>Agreement of adjectives with nouns for gender.
+<li>Agreement of possessive pronouns with nouns for gender: the translation of third person 
+singular (his/hers). In Swedish there are two possibilities for those pronouns, depending 
+on if the possessed thing belongs to the person in question (the subject) or to someone 
+else.
+<li>In modified noun phrases both the definite article and the definite suffix are used in 
+Swedish, not in English. The definiteness is in this case expressed twice in Swedish.
+</ul>
+
+<p>For more information read the document: Swedish grammar for the Block World Corpus</p>
+
+<p>I have tested to translate test sentences from the same world (domain) as the 
+  Block World Corpus i.e. I have written similar test sentences (available in 
+  the folder Evaluation).</p>
+  
+<p>When testing I discovered some other problems interesting than those I primarily wanted to test.</p>
+<p><a title="Apertium - open source machine translation" href="http://www.apertium.org/" 
+target="_blank">Apertium</a>, a rule based system, has a bit of a problem, for instance with 
+the Swedish sentence ”<strong>ta en blå kon .</strong>” (take a blue cone).</p>
+<p>Let’s first look at the translation to Danish (sv-da):</p>
+<p><strong>tag en blå koen .</strong> (take a blue the cow) A cow suddenly appears in the translation in definite form: the cow!</p>
+<p>Obviously, the problem is that the wrong translations is chosen. The 
+so called tagger, that’s supposed to decide on part of speach and choose
+ translation, believes that the Swedish word ”kon” (cone) is the 
+definite form of ”ko” (cow), instead of the indefinite form of ”kon”. 
+This might be possible to avoid by first writing clever rules for the 
+tagger and then training it on a large Swedish corpus.</p>
+<p>A correct translation of the sentence to French would be ”<strong>prenez un cône bleu .</strong>” and Apertium translates it like this to Spanish (fr-es):</p>
+<p><strong>Tomad un cono azul . </strong>(This is imperative in second 
+person plural i.e. you address more than one person informally, instead 
+of the polite request in third person singular subjunctive to one 
+person.)</p>
+<p>The translation from Spanish ”<strong>Tome un cono azul .</strong> ” to French (es-fr) becomes like this:</p>
+<p><strong>Il prenne un cône bleu .</strong> (”He takes a blue cone ” 
+i.e. translated to third person singular subjunctive, instead of the 
+polite request in second person plural to one person.)</p>
+<p>Apparently, the problem is that Apertium translates to the same form 
+in the target language as the form used in the source language. 
+Theoretically, this could be remedied with smart transfer rules, but it 
+wouldn’t be easy.</p>
+<p>The very simplest statistical translation model, IBM model 1, that 
+translates word for word, masters the translation of this sentence 
+effortlessly:</p>
+<p>[Size: 7] [Hypothesis: &lt;s&gt; <strong>tag en blå kegle .</strong> &lt;/s&gt; ] [Probability: 0.0014176820411553467]<br>
+[Size: 7] [Hypothesis: &lt;s&gt; <strong>tome un cono azul .</strong> &lt;/s&gt; ] [Probability: 4.6282404855571633E-4]<br>
+[Size: 7] [Hypothesis: &lt;s&gt; <strong>prenez un cône bleu .</strong> &lt;/s&gt; ] [Probability: 0.002503888182461805]</p>
+<p>The statistical translation model is trained on the parallel texts 
+from the Block World Corpus and uses a 3-gram language model estimated 
+on the full texts from the same corpus.</p>
+
+<p>Note: Apertium needs punctuation to treat the sentences as sentences, otherwise the 
+translation gets wird. But the translation is NOT improved if correct punction 
+is used (¡ tome una flecha !).</p>
+
+<p>© Per Tunedal, Stockholm, Sweden 2014-2015
+</body>
+</html>

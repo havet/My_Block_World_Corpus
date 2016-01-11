@@ -1,0 +1,511 @@
+
+\data\
+ngram 1= 34
+ngram 2= 140
+ngram 3= 325
+
+\1-grams:
+-1.65361	ta	-1.418
+-1.79528	det	-2.01494
+-1.15894	röda	-2.11203
+-1.51328	blocket	-2.29994
+-0.894527	.	-2.31911
+-1.43626	ställ	-1.63713
+-1.35258	konen	-2.46165
+-0.89923	på	-2.37239
+-1.14207	den	-2.67302
+-0.973864	cirkeln	-2.84167
+-1.63178	han	-2.18041
+-1.5873	tar	-1.4124
+-2.17798	sitt	-1.32222
+-1.57592	block	-2.23679
+-1.64916	hon	-2.16286
+-1.36163	ställer	-1.63964
+-1.93281	sin	-1.69897
+-1.30997	blåa	-1.90241
+-1.6959	cirkel	-2.11561
+-1.80787	en	-1.60423
+-2.27865	blå	-1.34242
+-2.12187	pil	-1.68124
+-1.62335	jag	-2.18893
+-2.27865	hennes	-1.12057
+-1.91611	kon	-1.89209
+-2.12187	ett	-1.50515
+-2.64038	blått	-1.43136
+-2.13523	pilen	-1.66745
+-2.31816	hans	-1.17609
+-2.1089	min	-1.39357
+-2.40993	röd	-1.20412
+-2.09631	mitt	-1.53148
+-3.16326	rött	-0.778151
+-2.1089	<unk>
+
+\2-grams:
+-0.571909	ta det	-1.50535
+-0.784189	ta blocket	-1.2945
+-0.731133	ta konen	-1.34565
+-1.03137	ta den	-1.04462
+-1.30799	ta en	-0.166718
+-1.55317	ta hennes
+-1.0961	ta ett	-0.993469
+-1.55195	ta pilen	-0.86853
+-1.41592	ta hans	-0.220753
+-2.14016	ta min
+-1.55155	ta mitt	-0.329117
+-0.337613	det röda	-1.89656
+-0.274191	det blåa	-1.95961
+-0.978425	röda blocket	-1.59553
+-0.991875	röda konen	-1.58174
+-0.28712	röda cirkeln	-2.2835
+-1.18491	röda block	-1.39141
+-0.881067	röda cirkel	-1.69244
+-1.34345	röda kon	-0.998124
+-1.5413	röda pilen	-1.34565
+-0.482858	blocket .	-1.33589
+-0.175679	blocket på	-1.41329
+-0.768606	. ta	-1.27352
+-0.544322	. ställ	-1.4972
+-0.74192	. han	-2.0947
+-0.759529	. hon	-2.07715
+-0.733377	. jag	-2.10322
+-0.884894	ställ det	-1.4126
+-0.7736	ställ blocket	-1.82277
+-0.590424	ställ konen	-2.00419
+-0.658186	ställ den	-1.63445
+-1.03338	ställ en	-0.830094
+-1.97455	ställ hennes	-0.692439
+-1.77094	ställ ett	-0.329117
+-1.37574	ställ pilen	-1.23651
+-2.36616	ställ hans
+-1.63376	ställ min	-0.692439
+-1.77067	ställ mitt	-0.329117
+-0.842268	konen .	-1.02815
+-0.0687303	konen på	-1.736
+-0.386571	på den	-2.44449
+-0.365772	på cirkeln	-2.46513
+-1.16409	på sin	-1.67016
+-1.46845	på en	-1.19304
+-1.85506	på hennes	-0.993469
+-2.07031	på hans	-0.550966
+-1.51804	på min	-1.14474
+-0.20531	den röda	-2.20654
+-0.426155	den blåa	-1.98617
+-0.147394	cirkeln .	-2.21095
+-0.542544	cirkeln på	-1.64237
+-0.464193	han tar	-0.72095
+-0.186784	han ställer	-1.21095
+-1.01837	tar det	-1.13177
+-1.28582	tar blocket	-0.86853
+-0.797358	tar konen	-1.34565
+-1.09599	tar den	-1.04462
+-0.981202	tar sitt	-0.993469
+-1.37553	tar sin	-0.317663
+-1.06092	tar en	-0.654003
+-1.29415	tar hennes	-0.329117
+-1.29339	tar ett	-0.630147
+-1.4812	tar pilen	-0.454056
+-1.2943	tar hans	-0.519964
+-1.37708	tar min	-0.440783
+-0.912453	tar mitt	-1.06042
+-0.76963	sitt röda	-1.09038
+-0.310371	sitt block	-1.23651
+-0.558867	sitt blåa	-1.2945
+-1.62127	sitt blått
+-0.338462	block .	-1.41672
+-0.270055	block på	-1.25629
+-0.434299	hon tar	-0.760528
+-0.203615	hon ställer	-1.11745
+-1.24562	ställer det	-1.13177
+-1.10621	ställer blocket	-1.5675
+-0.675934	ställer konen	-1.99347
+-0.732653	ställer den	-1.63445
+-1.08069	ställer sitt	-0.858123
+-1.44927	ställer sin	-0.935477
+-1.02765	ställer en	-1.16956
+-1.84679	ställer hennes	-0.329117
+-1.10916	ställer ett	-0.917904
+-1.60451	ställer pilen	-1.09038
+-1.70973	ställer hans	-0.454056
+-1.52056	ställer min	-0.86853
+-1.1397	ställer mitt	-1.06042
+-0.211322	sin röda	-1.58174
+-0.502637	sin blåa	-1.2945
+-1.27103	sin kon	-0.86853
+-0.76314	blåa blocket	-1.65858
+-0.677246	blåa konen	-1.74359
+-0.483593	blåa cirkeln	-1.93548
+-0.901259	blåa block	-1.52174
+-1.16046	blåa cirkel	-1.02809
+-1.76173	blåa pil	-0.454056
+-1.26023	blåa kon	-1.16956
+-1.89924	blåa pilen	-0.86853
+-0.0544318	cirkel .	-1.57893
+-0.950482	cirkel på	-0.550966
+-0.839292	en cirkel	-1.39141
+-0.490107	en blå	-1.25671
+-0.722981	en pil	-1.20432
+-1.0712	en kon	-0.86853
+-0.630918	en röd	-1.11841
+-0.587554	blå cirkel	-1.16956
+-0.356807	blå pil	-0.851996
+-0.588166	blå kon	-1.16956
+-0.56306	pil .	-0.271906
+-0.148154	pil på	-1.27602
+-0.403415	jag tar	-1.04995
+-0.222583	jag ställer	-1.1838
+-0.351984	hennes röda	-0.741813
+-0.772941	hennes block	-0.454056
+-0.665884	hennes blåa	-0.550966
+-1.11191	hennes cirkel	-0.692439
+-1.51039	hennes pil
+-0.645905	kon .	-0.86853
+-0.116658	kon på	-1.18306
+-0.168826	ett block	-1.4328
+-0.620413	ett blått	-1.2945
+-1.28312	ett rött	-0.692439
+-0.0159467	blått block	-1.04462
+-1.05177	pilen .	-0.329117
+-0.0480872	pilen på	-0.939547
+-0.725942	hans röda	-0.454056
+-0.869334	hans block	-0.329117
+-0.359918	hans blåa	-1.04462
+-0.73359	hans cirkel	-0.454056
+-0.349453	min röda	-1.26647
+-0.577402	min blåa	-1.04462
+-0.692859	min cirkel	-1.23651
+-1.29247	min kon
+-0.774883	röd cirkel	-0.86853
+-0.638955	röd pil	-0.993469
+-0.265661	röd kon	-1.34565
+-0.590165	mitt röda	-1.34565
+-0.394973	mitt block	-1.23651
+-0.50146	mitt blåa	-1.4328
+-0.0768809	rött block	-0.692439
+
+\3-grams:
+-0.336981	ta det röda
+-0.268043	ta det blåa
+-0.308637	ta blocket .
+-0.293716	ta blocket på
+-0.268022	ta konen .
+-0.336865	ta konen på
+-0.246661	ta den röda
+-0.363362	ta den blåa
+-0.42411	ta en kon
+-0.114604	ta ett block
+-0.650584	ta ett blått
+-0.00620507	ta pilen på
+-0.179729	ta hans blåa
+-0.168112	ta mitt blåa
+-0.00495979	det röda blocket
+-0.00396236	det blåa blocket
+-0.363353	röda blocket .
+-0.246612	röda blocket på
+-1.05828	röda konen .
+-0.0397719	röda konen på
+-0.131776	röda cirkeln .
+-0.582179	röda cirkeln på
+-0.188208	röda block .
+-0.454073	röda block på
+-0.0666342	röda cirkel .
+-0.847332	röda cirkel på
+-0.0103978	röda kon på
+-0.00205846	röda pilen på
+-0.499194	blocket . ta
+-0.408589	blocket . ställ
+-1.04556	blocket . han
+-1.17405	blocket . hon
+-0.867546	blocket . jag
+-0.241777	blocket på den
+-0.53318	blocket på cirkeln
+-1.26549	blocket på sin
+-1.51629	blocket på en
+-1.53056	blocket på hans
+-1.7194	blocket på min
+-0.563586	. ta det
+-0.762199	. ta blocket
+-0.709759	. ta konen
+-1.02037	. ta den
+-1.29261	. ta en
+-1.54068	. ta hennes
+-1.07466	. ta ett
+-1.54062	. ta pilen
+-1.3993	. ta hans
+-1.5406	. ta mitt
+-0.873965	. ställ det
+-0.762914	. ställ blocket
+-0.579251	. ställ konen
+-0.648659	. ställ den
+-1.0235	. ställ en
+-1.98454	. ställ hennes
+-1.77331	. ställ ett
+-1.36844	. ställ pilen
+-1.63184	. ställ min
+-1.7733	. ställ mitt
+-0.461834	. han tar
+-0.183975	. han ställer
+-0.431766	. hon tar
+-0.200716	. hon ställer
+-0.400958	. jag tar
+-0.219883	. jag ställer
+-0.369563	ställ det röda
+-0.242102	ställ det blåa
+-0.00217839	ställ blocket på
+-0.000630366	ställ konen på
+-0.311069	ställ den röda
+-0.291255	ställ den blåa
+-0.45087	ställ en blå
+-0.396949	ställ en pil
+-0.682935	ställ en röd
+-0.0519554	ställ hennes röda
+-0.191359	ställ ett blått
+-0.00264856	ställ pilen på
+-0.310434	ställ min röda
+-0.344662	ställ min blåa
+-0.185926	ställ mitt röda
+-0.355727	konen . ställ
+-0.742205	konen . han
+-0.665368	konen . hon
+-0.836624	konen . jag
+-0.373391	konen på den
+-0.337246	konen på cirkeln
+-1.18399	konen på sin
+-1.46184	konen på en
+-1.7884	konen på min
+-0.160705	på den röda
+-0.509641	på den blåa
+-0.170161	på cirkeln .
+-0.489236	på cirkeln på
+-0.163256	på sin röda
+-0.506095	på sin blåa
+-0.288846	på en cirkel
+-0.501469	på en blå
+-0.819526	på en röd
+-0.128205	på hennes röda
+-0.683845	på hennes cirkel
+-0.113103	på hans cirkel
+-0.376826	på min röda
+-0.76562	på min blåa
+-0.395328	på min cirkel
+-0.804863	den röda konen
+-0.0985111	den röda cirkeln
+-1.3563	den röda pilen
+-0.420119	den blåa konen
+-0.226822	den blåa cirkeln
+-1.65536	den blåa pilen
+-0.686389	cirkeln . ta
+-0.522118	cirkeln . ställ
+-0.755372	cirkeln . han
+-0.778569	cirkeln . hon
+-0.819812	cirkeln . jag
+-0.462624	cirkeln på den
+-0.261128	cirkeln på cirkeln
+-1.44246	cirkeln på sin
+-1.69297	cirkeln på en
+-1.29869	cirkeln på min
+-1.19541	han tar det
+-1.2566	han tar blocket
+-0.66012	han tar konen
+-1.21621	han tar den
+-0.745498	han tar sitt
+-0.830385	han tar en
+-1.07682	han tar ett
+-1.09479	han tar pilen
+-1.16241	han tar mitt
+-1.23696	han ställer det
+-1.12829	han ställer blocket
+-0.690812	han ställer konen
+-0.69421	han ställer den
+-0.920208	han ställer sitt
+-1.14393	han ställer sin
+-0.976003	han ställer en
+-1.12848	han ställer ett
+-1.25194	han ställer pilen
+-1.54347	han ställer mitt
+-0.345281	tar det röda
+-0.261372	tar det blåa
+-0.508382	tar blocket .
+-0.161585	tar blocket på
+-0.186689	tar konen .
+-0.456816	tar konen på
+-0.631997	tar den röda
+-0.115497	tar den blåa
+-0.631869	tar sitt röda
+-0.364008	tar sitt block
+-0.484752	tar sitt blåa
+-0.263947	tar sin kon
+-0.479968	tar en blå
+-0.555609	tar en kon
+-0.506844	tar en röd
+-0.462541	tar hennes block
+-0.435554	tar hennes blåa
+-0.0340832	tar ett block
+-0.167691	tar pilen .
+-0.491573	tar hans röda
+-0.248578	tar hans blåa
+-0.382279	tar min blåa
+-0.472022	tar min kon
+-0.554291	tar mitt röda
+-0.439876	tar mitt block
+-0.449085	tar mitt blåa
+-0.0342845	sitt röda block
+-0.673888	sitt block .
+-0.103552	sitt block på
+-0.0197177	sitt blåa block
+-1.25595	block . ta
+-0.572793	block . ställ
+-0.684395	block . han
+-0.824065	block . hon
+-0.494617	block . jag
+-0.360949	block på den
+-0.511947	block på cirkeln
+-0.799863	block på sin
+-1.3593	block på en
+-1.57704	block på hennes
+-1.56241	block på min
+-0.840892	hon tar det
+-1.14295	hon tar konen
+-0.849168	hon tar den
+-0.760671	hon tar sitt
+-0.97004	hon tar sin
+-0.845592	hon tar en
+-1.28768	hon tar min
+-0.916982	hon tar mitt
+-1.19893	hon ställer det
+-1.31427	hon ställer blocket
+-0.565862	hon ställer konen
+-0.625301	hon ställer den
+-0.883301	hon ställer sitt
+-1.53997	hon ställer sin
+-0.938332	hon ställer en
+-1.18808	hon ställer ett
+-1.49947	hon ställer mitt
+-0.265622	ställer det röda
+-0.34018	ställer det blåa
+-0.00392944	ställer blocket på
+-0.000645512	ställer konen på
+-0.337239	ställer den röda
+-0.267644	ställer den blåa
+-0.909442	ställer sitt röda
+-0.218271	ställer sitt block
+-0.580202	ställer sitt blåa
+-0.233038	ställer sin röda
+-0.390375	ställer sin blåa
+-0.410918	ställer en blå
+-0.571823	ställer en pil
+-0.485976	ställer en röd
+-0.198959	ställer hennes blåa
+-0.103386	ställer ett block
+-0.694903	ställer ett blått
+-0.00371287	ställer pilen på
+-0.0958494	ställer hans blåa
+-0.180768	ställer min röda
+-0.520753	ställer min blåa
+-0.865791	ställer mitt röda
+-0.187825	ställer mitt block
+-0.672222	ställer mitt blåa
+-0.0814166	sin röda cirkel
+-0.825708	sin röda kon
+-0.137792	sin blåa cirkel
+-0.646854	sin blåa pil
+-0.0480623	sin kon .
+-0.270199	blåa blocket .
+-0.334295	blåa blocket på
+-1.22013	blåa konen .
+-0.0270032	blåa konen på
+-0.103377	blåa cirkeln .
+-0.674051	blåa cirkeln på
+-0.201772	blåa block .
+-0.430062	blåa block på
+-0.00482222	blåa cirkel .
+-0.0465309	blåa pil på
+-0.635531	blåa kon .
+-0.114697	blåa kon på
+-0.00620507	blåa pilen på
+-1.04514	cirkel . ta
+-0.735007	cirkel . ställ
+-0.632142	cirkel . han
+-0.608947	cirkel . hon
+-0.608444	cirkel . jag
+-0.236178	cirkel på cirkeln
+-0.579516	cirkel på hennes
+-0.00208231	en cirkel .
+-0.570921	en blå cirkel
+-0.33683	en blå pil
+-0.570954	en blå kon
+-0.854817	en pil .
+-0.0658387	en pil på
+-0.20095	en kon .
+-0.432825	en kon på
+-0.757194	en röd cirkel
+-0.615996	en röd pil
+-0.237757	en röd kon
+-0.00347565	blå cirkel .
+-0.0180189	blå pil på
+-0.00697888	blå kon på
+-0.571545	pil . ta
+-0.414447	pil . han
+-0.12888	pil på den
+-0.867758	pil på cirkeln
+-0.93401	pil på sin
+-1.01682	jag tar det
+-1.16824	jag tar blocket
+-0.650099	jag tar konen
+-1.33703	jag tar den
+-0.933394	jag tar hennes
+-1.36239	jag tar ett
+-0.850892	jag tar hans
+-1.37041	jag tar min
+-0.707473	jag tar mitt
+-1.34143	jag ställer det
+-0.952794	jag ställer blocket
+-0.733575	jag ställer konen
+-0.870942	jag ställer den
+-1.19306	jag ställer en
+-1.36886	jag ställer hennes
+-1.02082	jag ställer ett
+-1.22735	jag ställer hans
+-1.03527	jag ställer min
+-0.79727	jag ställer mitt
+-0.566659	hennes röda block
+-0.234165	hennes röda cirkel
+-0.0916605	hennes block .
+-0.122578	hennes blåa block
+-0.0105129	hennes cirkel .
+-0.765791	kon . ställ
+-0.803133	kon . han
+-0.620315	kon . hon
+-0.389513	kon . jag
+-0.466244	kon på den
+-0.285579	kon på cirkeln
+-1.35316	kon på sin
+-1.03584	kon på en
+-0.389801	ett block .
+-0.227478	ett block på
+-0.000795595	ett blått block
+-0.0145463	ett rött block
+-0.482003	blått block .
+-0.173924	blått block på
+-0.212645	pilen . hon
+-0.675177	pilen på den
+-0.146559	pilen på cirkeln
+-1.21887	pilen på min
+-0.172987	hans röda block
+-0.127084	hans block .
+-0.386524	hans blåa block
+-0.28786	hans blåa kon
+-0.162486	hans cirkel på
+-0.349968	min röda cirkel
+-0.293523	min röda kon
+-0.530986	min blåa cirkel
+-0.203076	min blåa kon
+-0.00297775	min cirkel .
+-0.00697991	röd cirkel .
+-0.0332724	röd pil .
+-0.00464023	röd kon på
+-0.0187115	mitt röda block
+-0.673888	mitt block .
+-0.103552	mitt block på
+-0.0142504	mitt blåa block
+-0.0428766	rött block på
+\end\
