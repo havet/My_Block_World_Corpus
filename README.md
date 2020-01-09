@@ -28,7 +28,7 @@ It consists of two parts:
 
 Originally the corpus was intended for experiments with statistical machine translation, but it might as well be used with rule based systems e.g. shallow transfer systems as Apertium.
 
-The original corpus was in English and Swedish, but I have added some translations to new languages. I would appreciate if the translations were checked by anyone having these languages as their mother tongue.
+The original corpus was in English and Swedish, but I have added some translations to new languages: Danisch, French, German and Spanish. I would appreciate if the translations were checked by anyone having these languages as their mother tongue.
 
 It would be useful to have the corpus translated to more languages. I would very much appreciate if you translated the corpus to your language and sent the files to me.
 
