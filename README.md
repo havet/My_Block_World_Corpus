@@ -26,6 +26,10 @@ It consists of two parts:
 (The files are UTF-8 encoded to comply with the standard for Machine Translation. The national characters will be distorted if you use Windows and open the files with e.g. Notepad. I recommend Notepad++ for viewing and editing the files.)
 
 
-Originally the corpus was intended for experiments with statistical machine translation, but it might as well be used with rule based systems e.g. shallow transfer systems.
+Originally the corpus was intended for experiments with statistical machine translation, but it might as well be used with rule based systems e.g. shallow transfer systems as Apertium.
 
-The original corpus was in English and Swedish, but I have added some translations to new languages. It would be useful to have the corpus translated to more languages. I would very much appreciate if you translated the corpus to your language and sent the files to me.
+The original corpus was in English and Swedish, but I have added some translations to new languages. I would appreciate if the translations were checked by anyone having these languages as their mother tongue.
+
+It would be useful to have the corpus translated to more languages. I would very much appreciate if you translated the corpus to your language and sent the files to me.
+
+Contributions are welcome. Just make a fork, make a pull request and I will merge as soon as possible.
